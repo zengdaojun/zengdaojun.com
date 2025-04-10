@@ -4,10 +4,6 @@
 
 name: Deploy GitSite to Pages
 
-site:
-  # set when your site is served for GitHub pages without custom domain:
-  root-path: /zengdaojun.github.io
-
 on:
   # Runs on pushes targeting the default branch
   push:
