@@ -6,7 +6,7 @@ site:
   language: zh-CN
   # set the /<rootPath> pathname under which your site is served
   # for GitHub pages deployment without a custom domain, it is often '/<projectName>'
-  root-path: /zengdaojun.github.io
+  # root-path: /zengdaojun.github.io
 
   # set cdn prefix: self hosted
   cdn-path: /static
